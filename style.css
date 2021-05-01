@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600&display=swap');
+
+body {
+    background: rgb(66, 66, 66);
+    font-family: 'Teko', sans-serif;
+}
+
+#container {
+    border: solid 2px white;
+    padding-top: 15px;
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    font-size: 1cm;
+    font-weight: 500;
+    background: linear-gradient(to right, rgb(16, 16, 71), rgb(65, 109, 250));
+    color: white;
+}
+
+#content {
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 5px;   
+}
+
+#contacts {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ul {
+    
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+}
